@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2019-11-23T06:54:47.737Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.80 Safari/537.36" etag="VUKTdAsyIgzw7IkZQcXB" version="12.2.9" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-23T07:00:39.424Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.80 Safari/537.36" etag="ZqyCTh0f3wJq_YJ_uI0p" version="12.2.9" type="github" pages="1">
   <diagram id="PaWVrE_bjgCVeMJHbKoL" name="Page-1">
-    <mxGraphModel dx="2631" dy="475" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3050" dy="679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -10,7 +10,7 @@
         <mxCell id="qlIPXGJpVj5MMrCKtFdA-2" value="设备已检测" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#BD7000;fillColor=#f0a30a;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-90" y="170" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="qlIPXGJpVj5MMrCKtFdA-3" value="设备已绑卡" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#BD7000;fillColor=#f0a30a;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="qlIPXGJpVj5MMrCKtFdA-3" value="设备已激活" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#BD7000;fillColor=#f0a30a;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-310" y="170" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="qlIPXGJpVj5MMrCKtFdA-4" value="设备已解绑卡" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#BD7000;fillColor=#f0a30a;fontSize=16;" vertex="1" parent="1">
@@ -59,10 +59,10 @@
           <mxGeometry x="790" y="380" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="qlIPXGJpVj5MMrCKtFdA-19" value="电池已死亡" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1010" y="380" width="120" height="60" as="geometry"/>
+          <mxGeometry x="1230" y="380" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="qlIPXGJpVj5MMrCKtFdA-20" value="电池已遗失" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1230" y="380" width="120" height="60" as="geometry"/>
+          <mxGeometry x="1450" y="380" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="qlIPXGJpVj5MMrCKtFdA-21" value="收费策略已设定" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1010" y="170" width="120" height="60" as="geometry"/>
@@ -92,28 +92,31 @@
           <mxGeometry x="2105" y="170" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="qlIPXGJpVj5MMrCKtFdA-30" value="客户已注册" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#BD7000;fillColor=#f0a30a;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-980" y="570" width="120" height="60" as="geometry"/>
+          <mxGeometry x="-970" y="870" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="qlIPXGJpVj5MMrCKtFdA-31" value="客户已扫码" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#BD7000;fillColor=#f0a30a;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-750" y="570" width="120" height="60" as="geometry"/>
+          <mxGeometry x="-740" y="870" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="qlIPXGJpVj5MMrCKtFdA-33" value="押金已支付" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#BD7000;fillColor=#f0a30a;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-300" y="570" width="120" height="60" as="geometry"/>
+          <mxGeometry x="-290" y="870" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="qlIPXGJpVj5MMrCKtFdA-34" value="电池已借出&lt;br&gt;（依赖设备）" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#BD7000;fillColor=#f0a30a;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-70" y="570" width="120" height="60" as="geometry"/>
+          <mxGeometry x="-60" y="870" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="qlIPXGJpVj5MMrCKtFdA-35" value="电池已归还&lt;br&gt;（依赖设备）" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#BD7000;fillColor=#f0a30a;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="150" y="570" width="120" height="60" as="geometry"/>
+          <mxGeometry x="160" y="870" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="qlIPXGJpVj5MMrCKtFdA-36" value="订单已生成" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#BD7000;fillColor=#f0a30a;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-530" y="570" width="120" height="60" as="geometry"/>
+          <mxGeometry x="-520" y="870" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="qlIPXGJpVj5MMrCKtFdA-37" value="租金已结算" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#BD7000;fillColor=#f0a30a;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="370" y="570" width="120" height="60" as="geometry"/>
+          <mxGeometry x="380" y="870" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="qlIPXGJpVj5MMrCKtFdA-38" value="订单已完结" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#BD7000;fillColor=#f0a30a;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="590" y="570" width="120" height="60" as="geometry"/>
+          <mxGeometry x="600" y="870" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="qlIPXGJpVj5MMrCKtFdA-39" value="电池已更换广告" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="380" width="120" height="60" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
