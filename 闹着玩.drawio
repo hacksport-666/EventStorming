@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-23T06:38:25.180Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.80 Safari/537.36" etag="3zvvy7zG9tdViC3iu0XJ" version="12.2.9" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-23T06:42:50.864Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.80 Safari/537.36" etag="GnIZ_XxzUsVSkt-RAxZW" version="12.2.9" type="github" pages="1">
   <diagram id="PaWVrE_bjgCVeMJHbKoL" name="Page-1">
     <mxGraphModel dx="2631" dy="475" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -52,7 +52,7 @@
         <mxCell id="qlIPXGJpVj5MMrCKtFdA-16" value="电池已领用" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="570" y="380" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="qlIPXGJpVj5MMrCKtFdA-17" value="合同已签订" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="qlIPXGJpVj5MMrCKtFdA-17" value="合同已签订&lt;br&gt;（销售、商户、审批）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="790" y="170" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="qlIPXGJpVj5MMrCKtFdA-18" value="电池已流通" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;fontSize=16;" vertex="1" parent="1">
@@ -71,19 +71,25 @@
           <mxGeometry x="1230" y="170" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="qlIPXGJpVj5MMrCKtFdA-23" value="合同已解除" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1450" y="170" width="120" height="60" as="geometry"/>
-        </mxCell>
-        <mxCell id="qlIPXGJpVj5MMrCKtFdA-24" value="设备已回库" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1670" y="170" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="qlIPXGJpVj5MMrCKtFdA-25" value="设备已遗失" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="qlIPXGJpVj5MMrCKtFdA-24" value="设备已撤机" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1890" y="170" width="120" height="60" as="geometry"/>
         </mxCell>
+        <mxCell id="qlIPXGJpVj5MMrCKtFdA-25" value="设备已遗失" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="2320" y="170" width="120" height="60" as="geometry"/>
+        </mxCell>
         <mxCell id="qlIPXGJpVj5MMrCKtFdA-26" value="设备已返修" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="2110" y="170" width="120" height="60" as="geometry"/>
+          <mxGeometry x="2540" y="170" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="qlIPXGJpVj5MMrCKtFdA-27" value="设备已死亡" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="2330" y="170" width="120" height="60" as="geometry"/>
+          <mxGeometry x="2760" y="170" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="qlIPXGJpVj5MMrCKtFdA-28" value="设备已安装" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1450" y="170" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="qlIPXGJpVj5MMrCKtFdA-29" value="设备已回库" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="2105" y="170" width="120" height="60" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
