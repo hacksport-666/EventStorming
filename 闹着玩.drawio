@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-23T06:27:12.486Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.80 Safari/537.36" etag="MKwcJUtgJSUdRnpj4qKi" version="12.2.9" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-23T06:34:00.279Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.80 Safari/537.36" etag="ye_QlmE52DsSTcvJufwg" version="12.2.9" type="github" pages="1">
   <diagram id="PaWVrE_bjgCVeMJHbKoL" name="Page-1">
     <mxGraphModel dx="2631" dy="475" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -46,11 +46,29 @@
         <mxCell id="qlIPXGJpVj5MMrCKtFdA-14" value="电池已入库" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="140" y="380" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="qlIPXGJpVj5MMrCKtFdA-15" value="销售已领设备" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="qlIPXGJpVj5MMrCKtFdA-15" value="设备已领用" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="570" y="170" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="qlIPXGJpVj5MMrCKtFdA-16" value="销售已领电池" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="qlIPXGJpVj5MMrCKtFdA-16" value="电池已领用" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="570" y="380" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="qlIPXGJpVj5MMrCKtFdA-17" value="合同已签约" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="790" y="170" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="qlIPXGJpVj5MMrCKtFdA-18" value="电池已流通" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="790" y="380" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="qlIPXGJpVj5MMrCKtFdA-19" value="电池已死亡" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="380" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="qlIPXGJpVj5MMrCKtFdA-20" value="电池已遗失" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="380" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="qlIPXGJpVj5MMrCKtFdA-21" value="收费策略已设定" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="170" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="qlIPXGJpVj5MMrCKtFdA-22" value="流水分成已设定" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="170" width="120" height="60" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
