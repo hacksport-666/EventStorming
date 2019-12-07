@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2019-11-23T07:11:08.070Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.80 Safari/537.36" etag="ty3PpPmd1XQt9c5ZH0Fj" version="12.2.9" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-07T03:46:52.578Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.80 Safari/537.36" etag="pa-wrdbg01ZOcq6abKpg" version="12.3.8" type="github" pages="1">
   <diagram id="PaWVrE_bjgCVeMJHbKoL" name="Page-1">
-    <mxGraphModel dx="2631" dy="475" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3608" dy="950" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -92,31 +92,49 @@
           <mxGeometry x="2105" y="170" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="qlIPXGJpVj5MMrCKtFdA-30" value="客户已注册" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#BD7000;fillColor=#f0a30a;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="-970" y="870" width="120" height="60" as="geometry"/>
+          <mxGeometry x="-1330" y="870" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="qlIPXGJpVj5MMrCKtFdA-31" value="客户已扫码" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#BD7000;fillColor=#f0a30a;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="-740" y="870" width="120" height="60" as="geometry"/>
+          <mxGeometry x="-920" y="870" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="qlIPXGJpVj5MMrCKtFdA-33" value="押金已支付" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#BD7000;fillColor=#f0a30a;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="-290" y="870" width="120" height="60" as="geometry"/>
+          <mxGeometry x="-290" y="970" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="qlIPXGJpVj5MMrCKtFdA-34" value="电池已借出&lt;br&gt;（依赖设备）" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#BD7000;fillColor=#f0a30a;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="-60" y="870" width="120" height="60" as="geometry"/>
+        <mxCell id="qlIPXGJpVj5MMrCKtFdA-34" value="电池弹出已成功&lt;br&gt;（依赖设备）" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#BD7000;fillColor=#f0a30a;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="170" y="935" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="qlIPXGJpVj5MMrCKtFdA-35" value="电池已归还&lt;br&gt;（依赖设备）" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#BD7000;fillColor=#f0a30a;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="160" y="870" width="120" height="60" as="geometry"/>
+          <mxGeometry x="610" y="870" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="qlIPXGJpVj5MMrCKtFdA-36" value="订单已生成" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#BD7000;fillColor=#f0a30a;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="-520" y="870" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="qlIPXGJpVj5MMrCKtFdA-37" value="租金已结算" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#BD7000;fillColor=#f0a30a;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="380" y="870" width="120" height="60" as="geometry"/>
+          <mxGeometry x="830" y="870" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="qlIPXGJpVj5MMrCKtFdA-38" value="订单已完结" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#BD7000;fillColor=#f0a30a;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="600" y="870" width="120" height="60" as="geometry"/>
+          <mxGeometry x="1050" y="870" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="qlIPXGJpVj5MMrCKtFdA-39" value="电池已更换广告" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="1010" y="380" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="jIkyvSVbxXbPpyPXH2d0-1" value="押金已免除" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#BD7000;fillColor=#f0a30a;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-290" y="870" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="jIkyvSVbxXbPpyPXH2d0-2" value="电池弹出已失败" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#BD7000;fillColor=#f0a30a;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="170" y="805" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="jIkyvSVbxXbPpyPXH2d0-3" value="租借已成功" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#BD7000;fillColor=#f0a30a;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="390" y="870" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="jIkyvSVbxXbPpyPXH2d0-4" value="订单已冻结" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#BD7000;fillColor=#f0a30a;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-63.5" y="870" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="jIkyvSVbxXbPpyPXH2d0-5" value="客户已登录" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#BD7000;fillColor=#f0a30a;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-1125" y="865" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="jIkyvSVbxXbPpyPXH2d0-6" value="租借已开始" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#BD7000;fillColor=#f0a30a;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-720" y="865" width="120" height="60" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
