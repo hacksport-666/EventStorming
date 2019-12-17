@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2019-12-07T04:09:52.671Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.80 Safari/537.36" etag="ammc4jbemnfrmPCi1hvb" version="12.3.8" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-17T11:55:12.015Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.80 Safari/537.36" etag="71N5VdVr3KZUzqpliVEt" version="12.3.8" type="github" pages="1">
   <diagram id="PaWVrE_bjgCVeMJHbKoL" name="Page-1">
-    <mxGraphModel dx="3608" dy="950" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3050" dy="749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -118,35 +118,38 @@
         <mxCell id="qlIPXGJpVj5MMrCKtFdA-39" value="电池已更换广告" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="1010" y="380" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="jIkyvSVbxXbPpyPXH2d0-1" value="押金已免除" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#BD7000;fillColor=#f0a30a;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="jIkyvSVbxXbPpyPXH2d0-1" value="押金已免除" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#BD7000;fillColor=#f0a30a;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="-290" y="870" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="jIkyvSVbxXbPpyPXH2d0-2" value="电池弹出已失败" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#BD7000;fillColor=#f0a30a;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="jIkyvSVbxXbPpyPXH2d0-2" value="电池弹出已失败" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#BD7000;fillColor=#f0a30a;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="170" y="805" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="jIkyvSVbxXbPpyPXH2d0-3" value="租借已成功" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#BD7000;fillColor=#f0a30a;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="jIkyvSVbxXbPpyPXH2d0-3" value="租借已成功" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#BD7000;fillColor=#f0a30a;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="400" y="935" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="jIkyvSVbxXbPpyPXH2d0-4" value="订单已冻结" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#BD7000;fillColor=#f0a30a;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="jIkyvSVbxXbPpyPXH2d0-4" value="订单已冻结" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#BD7000;fillColor=#f0a30a;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="-63.5" y="870" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="jIkyvSVbxXbPpyPXH2d0-5" value="客户已登录" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#BD7000;fillColor=#f0a30a;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="jIkyvSVbxXbPpyPXH2d0-5" value="客户已登录" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#BD7000;fillColor=#f0a30a;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="-1210" y="870" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="jIkyvSVbxXbPpyPXH2d0-6" value="租借已开始" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#BD7000;fillColor=#f0a30a;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="jIkyvSVbxXbPpyPXH2d0-6" value="租借已开始" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#BD7000;fillColor=#f0a30a;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="-750" y="870" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="jIkyvSVbxXbPpyPXH2d0-7" value="租借已结束" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#BD7000;fillColor=#f0a30a;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="jIkyvSVbxXbPpyPXH2d0-7" value="租借已结束" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#BD7000;fillColor=#f0a30a;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="1732" y="820" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="jIkyvSVbxXbPpyPXH2d0-8" value="租借已失败" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#BD7000;fillColor=#f0a30a;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="jIkyvSVbxXbPpyPXH2d0-8" value="租借已失败" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#BD7000;fillColor=#f0a30a;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="400" y="805" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="jIkyvSVbxXbPpyPXH2d0-9" value="电池已丢失" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#BD7000;fillColor=#f0a30a;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="jIkyvSVbxXbPpyPXH2d0-9" value="电池已丢失" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#BD7000;fillColor=#f0a30a;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="1048" y="940" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="jIkyvSVbxXbPpyPXH2d0-10" value="罚金已结算" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#BD7000;fillColor=#f0a30a;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="jIkyvSVbxXbPpyPXH2d0-10" value="罚金已结算" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#BD7000;fillColor=#f0a30a;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="1292" y="940" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="t114s9SIJll-Zf4ueO5M-1" value="押金已扣完" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#BD7000;fillColor=#f0a30a;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1292" y="1055" width="120" height="60" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
