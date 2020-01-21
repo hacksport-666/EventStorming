@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-21T06:18:46.288Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.80 Safari/537.36" etag="sYJPv7_k8j21IfvCMxIk" version="12.5.5" type="github">
+<mxfile host="www.draw.io" modified="2020-01-21T06:24:01.388Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.80 Safari/537.36" etag="ijU_478FilAR7t9Zu9O4" version="12.5.5" type="github">
   <diagram id="S-L6qJafo1AaRCqfo0ar" name="Page-1">
     <mxGraphModel dx="3608" dy="950" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -71,7 +71,7 @@
           <mxGeometry x="913" y="120" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="yvEMTXYwp8ZP1PnC-tuG-1" value="会员订单已生成" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#BD7000;fillColor=#f0a30a;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="-207" y="90" width="120" height="60" as="geometry"/>
+          <mxGeometry x="-170" y="280" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="BPcbF-6O7Fa1xog5FoLp-1" value="会员规则" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#7700CC;fillColor=#aa00ff;fontSize=16;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="680" y="210" width="120" height="60" as="geometry"/>
@@ -90,6 +90,24 @@
         </mxCell>
         <mxCell id="BPcbF-6O7Fa1xog5FoLp-6" value="产品已展示" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#BD7000;fillColor=#f0a30a;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-880" y="1230" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="BPcbF-6O7Fa1xog5FoLp-8" value="会员已开通" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#BD7000;fillColor=#f0a30a;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-433.5" y="90" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="BPcbF-6O7Fa1xog5FoLp-9" value="扣款已成功" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#BD7000;fillColor=#f0a30a;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-660" y="90" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="BPcbF-6O7Fa1xog5FoLp-10" value="免密支付已签约" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#BD7000;fillColor=#f0a30a;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-890" y="90" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="BPcbF-6O7Fa1xog5FoLp-11" value="会员订单已生成" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#BD7000;fillColor=#f0a30a;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-1120" y="90" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="BPcbF-6O7Fa1xog5FoLp-12" value="广告已配置" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#BD7000;fillColor=#f0a30a;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-190" y="970" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="BPcbF-6O7Fa1xog5FoLp-13" value="广告已点击" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#BD7000;fillColor=#f0a30a;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="369.5" y="970" width="120" height="60" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
