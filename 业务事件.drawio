@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-03-30T09:12:06.284Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.80 Safari/537.36" etag="mOCD0JlQJTDODLn12PQW" version="12.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-30T09:15:03.791Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.80 Safari/537.36" etag="-OBy0mgfTl9ZpzKNmY8h" version="12.9.4" type="github">
   <diagram id="S-L6qJafo1AaRCqfo0ar" name="Page-1">
     <mxGraphModel dx="3282" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="RkWGnUQF84y7v4nED-ay-6" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="-1620" y="220" width="260" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="1Kwhp8gOCEwcugElnqpb-1" value="客户已注册" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#BD7000;fillColor=#f0a30a;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="1Kwhp8gOCEwcugElnqpb-1" value="客户已登录&lt;br&gt;（新用户注册）" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#BD7000;fillColor=#f0a30a;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="-890" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1Kwhp8gOCEwcugElnqpb-2" value="客户已扫码" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#BD7000;fillColor=#f0a30a;fontSize=16;" parent="1" vertex="1">
@@ -126,6 +126,9 @@
         </mxCell>
         <mxCell id="RkWGnUQF84y7v4nED-ay-8" value="电池归还消息已接收" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#BD7000;fillColor=#f0a30a;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="470" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RkWGnUQF84y7v4nED-ay-9" value="黑名单" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#7700CC;fillColor=#aa00ff;fontSize=16;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-910" y="300" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
